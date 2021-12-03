@@ -1,5 +1,3 @@
-![pic](https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/photo.jpg)
-
 # [Xinzhe Cao](https://www.cs.ox.ac.uk/people/xinzhe.cao/) 
 
 [Department of Computer Science](http://www.cs.ox.ac.uk/)
