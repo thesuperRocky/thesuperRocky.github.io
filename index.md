@@ -44,12 +44,12 @@ Research interm, Aug 2017 - Dec 2017
 Research Assistant, Aug 2017 - Jul 2018
 
 ## **Teaching** 
-CS 160 (now CS163/4) - Java Programming (Fall 16)  
-ECE 451 - Digital System Design (Fall 17)  
-ECE 202 - Circuit Theory Applications (Spring 18/Summer 17)  
-ECE 571 - VLSI System Design I (Spring 19)  
-ECE 102 - Digital Circuit Logic (Fall 18/Spring 19)  
-ECE 331 - Electronics Principles I (Fall 19)  
+[CS 160 (now CS163/4)](https://compsci.colostate.edu/courses/) - Java Programming (Fall 16)  
+[ECE 451](https://www.engr.colostate.edu/ece/courses/) - Digital System Design (Fall 17)  
+[ECE 202](https://www.engr.colostate.edu/ece/courses/) - Circuit Theory Applications (Spring 18/Summer 17)  
+[ECE 571](https://www.engr.colostate.edu/ece/courses/) - VLSI System Design I (Spring 19)  
+[ECE 102](https://www.engr.colostate.edu/ece/courses/) - Digital Circuit Logic (Fall 18/Spring 19)  
+[ECE 331](https://www.engr.colostate.edu/ece/courses/) - Electronics Principles I (Fall 19)  
 
 
 
