@@ -9,7 +9,7 @@
 Email: *`xinzhe.cao[at]cs.ox.ac.uk`*
 
 ## **Biography**
-I am a DPhil (Ph.D.) student in the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Irina Voiculescu](https://www.cs.ox.ac.uk/people/irina.voiculescu/) and [Peter Minary](https://www.cs.ox.ac.uk/people/peter.minary/).  Thanks to the generously supported from [National Science Foundation](https://www.nsf.gov/) and ColoState, I obtained my Master of Science (MSc) and Bachelor of Science (BSc) degree from the [Department of Electrical & Computer Engineering](https://www.engr.colostate.edu/ece/), [Colorado State University, USA](https://www.colostate.edu/), in 2019, 2017 respectively. 
+I am a DPhil (Ph.D.) student in the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Irina Voiculescu](https://www.cs.ox.ac.uk/people/irina.voiculescu/) and [Peter Minary](https://www.cs.ox.ac.uk/people/peter.minary/).  Thanks to the generous support from [National Science Foundation](https://www.nsf.gov/) and ColoState, I obtained my Master of Science (MSc) and Bachelor of Science (BSc) degree from the [Department of Electrical & Computer Engineering](https://www.engr.colostate.edu/ece/), [Colorado State University, USA](https://www.colostate.edu/), in 2019, 2017 respectively. 
 
 In a broad sense, my interests lie in the fields of probabilistic machine learning and bioinformatics. I am particularly interested in applying deep learning techniques for generative models, uncertainty quantification and CRISPR-related research. Most of my work is trying to provide real-world solutions for interdisciplinary research. 
 
