@@ -55,7 +55,7 @@ Research Assistant, Aug 2017 - Jul 2018
 
 ## **Services**  
 
-Serve as a volunteer group leader for the local hospital and Red Cross Society every summer since 2015. [***Newspaper Report***](https://mp.weixin.qq.com/s/biQ6I7wbfl4Pc99Zc8EvIw) 
+Serve as a volunteer group leader for the local hospital and Red Cross Society every summer since 2015. [*Newspaper Report*](https://mp.weixin.qq.com/s/biQ6I7wbfl4Pc99Zc8EvIw) 
 
 In general, I'm responsible for leading a small group of volunteers in multiple hospital events such as fundraising for the Emergency Room, organizing blood donations, spending time at the hospital, and so on. At the same time, I'm also the leader for simultaneous interpretation (Mandarin/English) in Emergency Medical Response (EMR) training program. 
 
