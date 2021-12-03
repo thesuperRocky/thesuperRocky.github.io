@@ -1,3 +1,5 @@
+![pic]([WeChat Image_20211102122859.jpg](https://github.com/thesuperRocky/thesuperRocky.github.io/blob/main/photo.jpg))
+
 # [Xinzhe Cao](https://www.cs.ox.ac.uk/people/xinzhe.cao/) 
 
 [Department of Computer Science](http://www.cs.ox.ac.uk/)
