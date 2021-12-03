@@ -1,6 +1,6 @@
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/photo.jpg" width = "145" height = "190" alt="pic" align=right />
-
 # [Xinzhe Cao](https://www.cs.ox.ac.uk/people/xinzhe.cao/) 
+
+<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/photo.jpg" width = "145" height = "190" alt="pic" align=right />
 
 [Department of Computer Science](http://www.cs.ox.ac.uk/)
 
