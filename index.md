@@ -1,54 +1,55 @@
-## Welcome to GitHub Pages
+# [Xinzhe Cao](https://www.cs.ox.ac.uk/people/xinzhe.cao/) 
 
-You can use the [editor on GitHub](https://github.com/thesuperRocky/thesuperRocky.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+[Department of Computer Science](http://www.cs.ox.ac.uk/)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[University of Oxford](https://www.ox.ac.uk/)
 
-### Markdown
+Email: *`xinzhe.cao[at]cs.ox.ac.uk`*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **Biography**
+I am a DPhil (Ph.D.) student in the [Department of Computer Science](http://www.cs.ox.ac.uk/) at the [University of Oxford](https://www.ox.ac.uk/), advised by [Irina Voiculescu](https://www.cs.ox.ac.uk/people/irina.voiculescu/) and [Peter Minary](https://www.cs.ox.ac.uk/people/peter.minary/).  Thanks to the generously supported from [National Science Foundation](https://www.nsf.gov/) and ColoState, I obtained my Master of Science (MSc) and Bachelor of Science (BSc) degree from the [Department of Electrical & Computer Engineering](https://www.engr.colostate.edu/ece/), [Colorado State University, USA](https://www.colostate.edu/), in 2019, 2017 respectively. 
 
-```markdown
-Syntax highlighted code block
+In a broad sense, my interests lie in the fields of probabilistic machine learning and bioinformatics. I am particularly interested in applying deep learning techniques for generative models, uncertainty quantification and CRISPR-related research. Most of my work is trying to provide real-world solutions for interdisciplinary research. 
 
-# Header 1
-## Header 2
-### Header 3
+## **Publications**
+Hierarchical Polynomial Chaos for Variation Analysis of Silicon Photonics Microresonators
+<br> **X. Cao**, S. Bhatnagar, M. Nikdast, S. Roy
+<br> International Applied Computational Electromagnetics Society Symposium (ACES), 2019. [PDF](https://ieeexplore.ieee.org/abstract/document/8713135) 
 
-- Bulleted
-- List
+Multimodal Biometric Person Recognition by Feature Fusion
+<br> L. Huang, C. Yu, and **X. Cao**
+<br> 5th International Conference on Information Science and Control Engineering (ICISCE), 2018. [PDF](https://ieeexplore.ieee.org/document/8612736) 
 
-1. Numbered
-2. List
+ Bimodal Biometric Person Recognition by Score Fusion
+<br> L. Huang, C. Yu, and **X. Cao** 
+<br> 5th International Conference on Information Science and Control Engineering (ICISCE), 2018. [PDF](https://ieeexplore.ieee.org/document/8612723) 
+ 
+## **Experiences** 
+[National Science Foundation (NSF)](https://www.nsf.gov/)  
+Research Assistant, Oct 2018 - Dec 2019
 
-**Bold** and _Italic_ and `Code` text
+[University of Colorado Denver](https://www.ucdenver.edu/)  
+Research Assistant, Jan 2019 - May 2019
 
-[Link](url) and ![Image](src)
-```
+[Argonne National Laboratory](https://www.anl.gov/)  
+Research interm, May 2018 - Aug 2018
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+[U.S. Department of Energy (DOE)](https://www.energy.gov/)  
+Research interm, Dec 2017 - May 2018
 
-### Jekyll Themes
+[General Motors (GM)](https://www.gm.com/)  
+Research interm, Aug 2017 - Dec 2017
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thesuperRocky/thesuperRocky.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[Metropolitan State University of Denver](https://www.msudenver.edu/)  
+Research Assistant, Aug 2017 - Jul 2018
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-
-
-
-
-
-
-
-
-
-
-
-## GG
-
+## **Teaching** 
+CS 160 (now CS163/4) - Java Programming (Fall 16)  
+ECE 451 - Digital System Design (Fall 17)  
+ECE 202 - Circuit Theory Applications (Spring 18/Summer 17)  
+ECE 571 - VLSI System Design I (Spring 19)  
+ECE 102 - Digital Circuit Logic (Fall 18/Spring 19)  
+ECE 331 - Electronics Principles I (Fall 19)  
 
 
 
