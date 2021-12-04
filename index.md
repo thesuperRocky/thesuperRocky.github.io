@@ -60,12 +60,12 @@ Serve as a volunteer group leader for the local hospital and Red Cross Society e
 In general, I'm responsible for leading a small group of volunteers in multiple hospital events such as fundraising for the Emergency Room, organizing blood donations, spending time at the hospital, and so on. At the same time, I'm also the leader for simultaneous interpretation (Mandarin/English) in Emergency Medical Response (EMR) training program. 
 
 ## **Need for Speed** 
-The coolest project I used to work on. I designed the low voltage full vehicle schematic. 
+The coolest project I used to work on. Responsible for designing the low voltage full vehicle schematic. 
 
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/1.jpg" width = "300" height = "200" alt="pic" align=left />
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/2.jpg" width = "300" height = "200" alt="pic" align=right />
+<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/1.jpg" width = "270" height = "180" alt="pic" align=left />
+<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/2.jpg" width = "270" height = "180" alt="pic" align=right />
 
-<iframe width="560" height="315"
+<iframe width="560" height="330"
 src="https://www.youtube.com/embed/VVyCm5P0te4" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
