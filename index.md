@@ -14,34 +14,29 @@ I am a DPhil (Ph.D.) student in the [Department of Computer Science](http://www.
 In a broad sense, my interests lie in the fields of probabilistic machine learning and bioinformatics. I am particularly interested in applying deep learning techniques for generative models, uncertainty quantification and CRISPR-related research. Most of my work is trying to provide real-world solutions for interdisciplinary research. 
 
 ## **Publications**
-Hierarchical Polynomial Chaos for Variation Analysis of Silicon Photonics Microresonators
+*Hierarchical Polynomial Chaos for Variation Analysis of Silicon Photonics Microresonators*
 <br> **X. Cao**, S. Bhatnagar, M. Nikdast, S. Roy
 <br> International Applied Computational Electromagnetics Society Symposium (ACES), 2019. [PDF](https://ieeexplore.ieee.org/abstract/document/8713135) 
 
-Multimodal Biometric Person Recognition by Feature Fusion
+*Multimodal Biometric Person Recognition by Feature Fusion*
 <br> L. Huang, C. Yu, and **X. Cao**
 <br> 5th International Conference on Information Science and Control Engineering (ICISCE), 2018. [PDF](https://ieeexplore.ieee.org/document/8612736) 
 
- Bimodal Biometric Person Recognition by Score Fusion
+*Bimodal Biometric Person Recognition by Score Fusion*
 <br> L. Huang, C. Yu, and **X. Cao** 
 <br> 5th International Conference on Information Science and Control Engineering (ICISCE), 2018. [PDF](https://ieeexplore.ieee.org/document/8612723) 
  
 ## **Experiences** 
 [National Science Foundation (NSF)](https://www.nsf.gov/)  
-Research Assistant, Oct 2018 - Dec 2019
-
+Research Assistant, Oct 2018 - Dec 2019  
 [University of Colorado Denver](https://www.ucdenver.edu/)  
-Research Assistant, Jan 2019 - May 2019
-
+Research Assistant, Jan 2019 - May 2019  
 [Argonne National Laboratory](https://www.anl.gov/)  
-Research interm, May 2018 - Aug 2018
-
+Research interm, May 2018 - Aug 2018  
 [U.S. Department of Energy (DOE)](https://www.energy.gov/)  
-Research interm, Dec 2017 - May 2018
-
+Research interm, Dec 2017 - May 2018  
 [General Motors (GM)](https://www.gm.com/)  
-Research interm, Aug 2017 - Dec 2017
-
+Research interm, Aug 2017 - Dec 2017  
 [Metropolitan State University of Denver](https://www.msudenver.edu/)  
 Research Assistant, Aug 2017 - Jul 2018
 
