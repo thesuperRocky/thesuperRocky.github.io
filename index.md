@@ -62,23 +62,12 @@ In general, I'm responsible for leading a small group of volunteers in multiple 
 ## **Need for Speed** 
 The coolest project I used to work on. I designed the low voltage full vehicle schematic. 
 
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/1.jpg" width = "180" height = "140" alt="pic" align=left />
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/2.jpg" width = "180" height = "140" alt="pic" align=center />
-<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/3.jpg" width = "180" height = "140" alt="pic" align=right />  
-
-<iframe 
-src="https://youtu.be/VVyCm5P0te4" 
-scrolling="no" 
-border="0" 
-frameborder="no" 
-framespacing="0" 
-allowfullscreen="true" 
-height=600 
-width=800> 
-</iframe>
+<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/1.jpg" width = "300" height = "200" alt="pic" align=left />
+<img src="https://github.com/thesuperRocky/thesuperRocky.github.io/raw/main/2.jpg" width = "300" height = "200" alt="pic" align=right />
 
 <iframe width="560" height="315"
-src="https://youtu.be/VVyCm5P0te4" 
+src="https://www.youtube.com/embed/VVyCm5P0te4" 
 frameborder="0" 
 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
 allowfullscreen></iframe>
+
